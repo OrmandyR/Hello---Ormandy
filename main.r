@@ -1,1 +1,2 @@
-print("hello Ormandy! ")
+name <- "Ormandy"
+cat("Hello ", name, "!" , sep="")
